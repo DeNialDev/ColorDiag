@@ -1,0 +1,9 @@
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\bin\Debug\ColorDiag.exe.config
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\bin\Debug\ColorDiag.exe
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\bin\Debug\ColorDiag.pdb
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\obj\Debug\ColorDiag.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\obj\Debug\ColorDiag.Properties.Resources.resources
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\obj\Debug\ColorDiag.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\obj\Debug\ColorDiag.exe
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\obj\Debug\ColorDiag.pdb
+C:\Users\danie\source\repos\ColorDiag\ColorDiag\obj\Debug\ColorDiag.Form1.resources
